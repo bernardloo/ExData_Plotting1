@@ -1,4 +1,4 @@
-# Author: Bernard Loo
+# Bernard Loo
 ######################
 
 setwd("c:/A_R")
